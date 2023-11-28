@@ -1,3 +1,4 @@
+![logo](https://github.com/iamrishi007/iamrishi007/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rushikesh Gaware</h1>
 <h3 align="center">A passionate frontend developer | Software Development Student</h3>
 
