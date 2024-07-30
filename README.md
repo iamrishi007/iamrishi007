@@ -20,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrishi007&show_icons=true&locale=en" alt="iamrishi007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrishi007&" alt="iamrishi007" /></p>
+
+![image](https://github.com/user-attachments/assets/c852bb03-4407-4923-bfb3-726bf0f1c687)
+
