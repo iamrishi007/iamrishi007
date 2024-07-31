@@ -21,5 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrishi007&" alt="iamrishi007" /></p>
 
-![image](https://github.com/user-attachments/assets/c852bb03-4407-4923-bfb3-726bf0f1c687)
+
 
