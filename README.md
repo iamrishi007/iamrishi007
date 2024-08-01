@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamrishi007" alt="iamrishi007" /></a> </p>
 
+- 🌱 I’m currently learning **Full stack web development**
+
+- 👨‍💻 All of my projects are available at [https://rushikesh-gaware.netlify.app/](https://rushikesh-gaware.netlify.app/)
+
 - 📫 How to reach me **rushigaware1020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,6 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrishi007&show_icons=true&locale=en" alt="iamrishi007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrishi007&" alt="iamrishi007" /></p>
-
-
-
