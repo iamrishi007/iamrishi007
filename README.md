@@ -34,3 +34,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrishi007&" alt="iamrishi007" /></p>
 <br>
+<p align="center"><img align="center" src="https://img95.lovepik.com/photo/40104/2788.gif_wh860.gif/?user=iamrishi007&" alt="iamrishi007" /></p>
+<br>
