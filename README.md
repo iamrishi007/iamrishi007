@@ -1,8 +1,10 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
 <h1 align="center">Hi 👋, I'm Rushikesh Gaware</h1>
 <h2 align="center">Full Stack Web Developer</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bcnghia/bcnghia/main/Resources/background.gif" alt="Coding Animation" width="600"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" width="800"/>
 </p>
 
 <p align="center">
@@ -24,16 +26,163 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rushigaware1020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rushigaware1020" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/rushigaware1020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rushigaware1020/" height="30" width="40" /></a>
 </p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<br>
+ <div>
+<h2 align="left">⚡Tech Stack</h2>
+          <br>
+          <div>
+               <table align="center">
+                    <tbody>
+                         <tr valign="top">
+                              <td width="25%" align="center">
+                                   <a style="font-weight: bold; text-decoration: none;" href="https://www.w3.org/html/">
+                                        <span>HTML5</span><br /><br />
+                                        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg"
+                                             alt="HTML5 Logo" />
+                                   </a>
+                              </td>
+                              <td width="25%" align="center">
+                                   <a href="http://www.w3.org/TR/CSS/">
+                                        <span>CSS</span><br /><br />
+                                        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"
+                                             alt="CSS Logo" />
+                                   </a>
+                              </td>
+                              <td width="25%" align="center">
+                                   <a href="https://chakra-ui.com/">
+                                        <span>Chakra UI</span><br /><br />
+                                        <img height="64px"
+                                             src="https://itelofilho.gallerycdn.vsassets.io/extensions/itelofilho/chakra-ui-cheatsheet/0.1.2/1602346378840/Microsoft.VisualStudio.Services.Icons.Default"
+                                             alt="Chakra UI Logo" />
+                                   </a>
+                              </td>
+                              <td width="25%" align="center">
+                                   <a style="font-weight: bold; text-decoration: none;" href="https://react.dev/">
+                                        <span>React</span><br /><br />
+                                        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg"
+                                             alt="React Logo" />
+                                   </a>
+                              </td>
+                         </tr>
+                         <tr>
+                              <td width="25%" align="center">
+                                   <a style="font-weight: bold; text-decoration: none;" href="https://nodejs.org/">
+                                        <span>Node.js</span><br /><br />
+                                        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg"
+                                             alt="Node.js Logo" />
+                                   </a>
+                              </td>
+                              <td width="25%" align="center">
+                                   <a href="http://expressjs.com/">
+                                        <span>Express</span><br /><br />
+                                        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg"
+                                             alt="Express Logo" />
+                                   </a>
+                              </td>
+ 
+</tr>
+                         <tr>
+                              <td width="25%" align="center">
+                                   <a style="font-weight: bold; text-decoration: none;" href="https://www.mongodb.com/">
+                                        <span>MongoDB</span><br /><br />
+                                        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg"
+                                             alt="MongoDB Logo" />
+                                   </a>
+                              </td>
+                              <td width="25%" align="center">
+                                   <a href="https://www.python.org/">
+                                        <span>Python</span><br /><br />
+                                        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg"
+                                             alt="Python Logo" />
+                                   </a>
+                              </td>
+                              <td width="25%" align="center">
+                                   <a style="font-weight: bold; text-decoration: none;"
+                                        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+                                        <span>JavaScript</span><br /><br />
+                                        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"
+                                             alt="JavaScript Logo" />
+                                   </a>
+                              </td>
+                              <td width="25%" align="center">
+                                   <a style="font-weight: bold; text-decoration: none;" href="https://redux.js.org/">
+                                        <span>Redux</span><br /><br />
+                                        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg"
+                                             alt="Redux Logo" />
+                                   </a>
+                              </td>
+                         </tr>
+                    </tbody>
+               </table>
+               <br />
+          </div>
+<h2 align="left">🛠️ Tools</h2>
+          <br>
+          <div>
+               <table align="center">
+                    <tbody>
+                         <tr>
+                              <td width="25%" align="center">
+                                   <a href="https://code.visualstudio.com/">
+                                        <span>VS Code</span><br /><br />
+                                        <img height="64px" src="https://code.visualstudio.com/assets/favicon.ico"
+                                             alt="VS Code Logo" />
+                                   </a>
+                              </td>
+                              <td width="25%" align="center">
+                                   <a href="https://git-scm.com/">
+                                        <span>Git</span><br /><br />
+                                        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"
+                                             alt="Git Logo" />
+                                   </a>
+                              </td>
+                              <td width="25%" align="center">
+                                   <a href="https://github.com/">
+                                        <span>GitHub</span><br /><br />
+                                        <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg"
+                                             alt="GitHub Logo" />
+                                   </a>
+                              </td>
+                              <td width="25%" align="center">
+                                   <a style="font-weight: bold; text-decoration: none;" href="https://www.npmjs.com/">
+                                        <span>NPM</span><br /><br />
+                                        <img height="64px" src="https://cdn.svgporn.com/logos/npm.svg" alt="NPM Logo" />
+                                   </a>
+                              </td>
+                         </tr>
+                         <tr>
+                              <td width="25%" align="center">
+                                   <a href="https://www.netlify.com/">
+                                        <span>Netlify</span><br /><br />
+                                        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg"
+                                             alt="Netlify Logo" />
+                                   </a>
+                              </td>
+<td width="25%" align="center">
+                                   <a href="https://www.postman.com/">
+                                        <span>Postman</span><br /><br />
+                                        <img height="64px" src="https://cdn.svgporn.com/logos/postman-icon.svg"
+                                             alt="Postman Logo" />
+                                   </a>
+                              </td>
+                              <td width="25%" align="center">
+                                   <a style="font-weight: bold; text-decoration: none;" href="https://vitejs.dev/">
+                                        <span>Vite</span><br /><br />
+                                        <img height="64px" src="https://cdn.svgporn.com/logos/vitejs.svg"
+                                             alt="Vite Logo" />
+                                   </a>
+                              </td>
+                         </tr>
+                    </tbody>
+               </table>
+          </div>
+          <br />
+     </div>
+</p>
+<br/>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrishi007&show_icons=true&locale=en" alt="iamrishi007" /></p>
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrishi007&" alt="iamrishi007" /></p>
-<br>
-<p align="center">
-  <img src="https://img95.lovepik.com/photo/40104/2788.gif_wh860.gif" alt="Coding Animation" width="600"/>
-</p>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+  <img align="center" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
