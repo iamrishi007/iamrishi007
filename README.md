@@ -14,7 +14,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamrishi007" alt="iamrishi007" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack web development**
 
 - 👨‍💻 All of my projects are available at [https://rushikesh-gaware.netlify.app/](https://rushikesh-gaware.netlify.app/)
 
