@@ -1,187 +1,131 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<!--
+  GitHub Profile README
+  Repository: iamrishi007/iamrishi007
+-->
 
-<h1 align="center">Hi 👋, I'm Rushikesh Gaware</h1>
-<h2 align="center">Full Stack Web Developer</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" width="600"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Rushikesh%20Gaware&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Generative%20AI%20Builder&descSize=16&descAlignY=58" alt="Rushikesh Gaware — Full Stack Developer and Generative AI Builder" width="100%" />
+
+<a href="https://rushikeshgaware-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/rushikesh-gaware18/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:rushigaware1020@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br />
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm **Rushikesh Gaware**, a software developer focused on building useful, reliable web applications and exploring how Generative AI can make them smarter.
+
+My core experience is in **JavaScript/TypeScript full-stack development**—from responsive interfaces and REST APIs to backend services and relational databases. I'm now extending that foundation into **LLM-powered applications** with Python, LangChain, retrieval-augmented generation (RAG), embeddings, and AI agents.
+
+- 🧩 **Build:** Full-stack applications, APIs, and backend integrations.
+- 🤖 **Explore:** Generative AI, LLM workflows, RAG, and tool-using agents.
+- 🚀 **Currently building:** **TripPilot AI**, an AI-powered travel and flight assistant.
+- 📚 **Learning by doing:** Turning concepts into working features, documenting what I learn, and improving through iteration.
+
+> **My approach:** Understand the fundamentals, build the feature, test the integration, and keep improving the implementation.
+
+## 🛠️ Tech Stack
+
+### Full Stack Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,nestjs,html,css&perline=9" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, NestJS, HTML, CSS" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamrishi007&label=Profile%20views&color=0e75b6&style=flat" alt="iamrishi007" />
+### Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=6" alt="PostgreSQL, MongoDB, Redis" />
+  <br />
+  <img src="https://img.shields.io/badge/SQL-Database%20Queries-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/TypeORM-ORM-E83524?style=flat-square" alt="TypeORM" />
 </p>
 
+### Generative AI & Python
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamrishi007" alt="iamrishi007" /></a> </p>
-
-
-- 👨‍💻 All of my projects are available at [https://rushikesh-gaware.netlify.app/](https://rushikesh-gaware.netlify.app/)
-
-- 📫 How to reach me **rushigaware1020@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rushikesh-gaware18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rushikesh-gaware18/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rushigaware1020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rushigaware1020" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rushigaware1020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rushigaware1020/" height="30" width="40" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi&perline=6" alt="Python and FastAPI" />
+  <br />
+  <img src="https://img.shields.io/badge/LangChain-LLM%20Applications-1C3C3C?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6D28D9?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Embeddings%20%26%20Vector%20Stores-AI%20Search-0F766E?style=flat-square" alt="Embeddings and vector stores" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Tool%20Calling-7C3AED?style=flat-square" alt="AI agents and tool calling" />
 </p>
- <div>
-<h2 align="left">⚡Tech Stack</h2>
-          <br>
-          <div>
-               <table align="center">
-                    <tbody>
-                         <tr valign="top">
-                              <td width="25%" align="center">
-                                   <a style="font-weight: bold; text-decoration: none;" href="https://www.w3.org/html/">
-                                        <span>HTML5</span><br /><br />
-                                        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg"
-                                             alt="HTML5 Logo" />
-                                   </a>
-                              </td>
-                              <td width="25%" align="center">
-                                   <a href="http://www.w3.org/TR/CSS/">
-                                        <span>CSS</span><br /><br />
-                                        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"
-                                             alt="CSS Logo" />
-                                   </a>
-                              </td>
-                              <td width="25%" align="center">
-                                   <a href="https://chakra-ui.com/">
-                                        <span>Chakra UI</span><br /><br />
-                                        <img height="64px"
-                                             src="https://itelofilho.gallerycdn.vsassets.io/extensions/itelofilho/chakra-ui-cheatsheet/0.1.2/1602346378840/Microsoft.VisualStudio.Services.Icons.Default"
-                                             alt="Chakra UI Logo" />
-                                   </a>
-                              </td>
-                              <td width="25%" align="center">
-                                   <a style="font-weight: bold; text-decoration: none;" href="https://react.dev/">
-                                        <span>React</span><br /><br />
-                                        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg"
-                                             alt="React Logo" />
-                                   </a>
-                              </td>
-                         </tr>
-                         <tr>
-                              <td width="25%" align="center">
-                                   <a style="font-weight: bold; text-decoration: none;" href="https://nodejs.org/">
-                                        <span>Node.js</span><br /><br />
-                                        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg"
-                                             alt="Node.js Logo" />
-                                   </a>
-                              </td>
-                              <td width="25%" align="center">
-                                   <a href="http://expressjs.com/">
-                                        <span>Express</span><br /><br />
-                                        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg"
-                                             alt="Express Logo" />
-                                   </a>
-                              </td>
- 
-</tr>
-                         <tr>
-                              <td width="25%" align="center">
-                                   <a style="font-weight: bold; text-decoration: none;" href="https://www.mongodb.com/">
-                                        <span>MongoDB</span><br /><br />
-                                        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg"
-                                             alt="MongoDB Logo" />
-                                   </a>
-                              </td>
-                              <td width="25%" align="center">
-                                   <a href="https://www.python.org/">
-                                        <span>Python</span><br /><br />
-                                        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg"
-                                             alt="Python Logo" />
-                                   </a>
-                              </td>
-                              <td width="25%" align="center">
-                                   <a style="font-weight: bold; text-decoration: none;"
-                                        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-                                        <span>JavaScript</span><br /><br />
-                                        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"
-                                             alt="JavaScript Logo" />
-                                   </a>
-                              </td>
-                              <td width="25%" align="center">
-                                   <a style="font-weight: bold; text-decoration: none;" href="https://redux.js.org/">
-                                        <span>Redux</span><br /><br />
-                                        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg"
-                                             alt="Redux Logo" />
-                                   </a>
-                              </td>
-                         </tr>
-                    </tbody>
-               </table>
-               <br />
-          </div>
-<h2 align="left">🛠️ Tools</h2>
-          <br>
-          <div>
-               <table align="center">
-                    <tbody>
-                         <tr>
-                              <td width="25%" align="center">
-                                   <a href="https://code.visualstudio.com/">
-                                        <span>VS Code</span><br /><br />
-                                        <img height="64px" src="https://code.visualstudio.com/assets/favicon.ico"
-                                             alt="VS Code Logo" />
-                                   </a>
-                              </td>
-                              <td width="25%" align="center">
-                                   <a href="https://git-scm.com/">
-                                        <span>Git</span><br /><br />
-                                        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"
-                                             alt="Git Logo" />
-                                   </a>
-                              </td>
-                              <td width="25%" align="center">
-                                   <a href="https://github.com/">
-                                        <span>GitHub</span><br /><br />
-                                        <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg"
-                                             alt="GitHub Logo" />
-                                   </a>
-                              </td>
-                              <td width="25%" align="center">
-                                   <a style="font-weight: bold; text-decoration: none;" href="https://www.npmjs.com/">
-                                        <span>NPM</span><br /><br />
-                                        <img height="64px" src="https://cdn.svgporn.com/logos/npm.svg" alt="NPM Logo" />
-                                   </a>
-                              </td>
-                         </tr>
-                         <tr>
-                              <td width="25%" align="center">
-                                   <a href="https://www.netlify.com/">
-                                        <span>Netlify</span><br /><br />
-                                        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg"
-                                             alt="Netlify Logo" />
-                                   </a>
-                              </td>
-<td width="25%" align="center">
-                                   <a href="https://www.postman.com/">
-                                        <span>Postman</span><br /><br />
-                                        <img height="64px" src="https://cdn.svgporn.com/logos/postman-icon.svg"
-                                             alt="Postman Logo" />
-                                   </a>
-                              </td>
-                              <td width="25%" align="center">
-                                   <a style="font-weight: bold; text-decoration: none;" href="https://vitejs.dev/">
-                                        <span>Vite</span><br /><br />
-                                        <img height="64px" src="https://cdn.svgporn.com/logos/vitejs.svg"
-                                             alt="Vite Logo" />
-                                   </a>
-                              </td>
-                         </tr>
-                    </tbody>
-               </table>
-          </div>
-          <br />
-     </div>
+
+### APIs, Real-Time & Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode&perline=7" alt="Git, GitHub, Postman, Docker, Visual Studio Code" />
+  <br />
+  <img src="https://img.shields.io/badge/REST%20APIs-Integration-2563EB?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/WebSockets-Real--time%20Communication-0F766E?style=flat-square" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Webhooks-Event--driven%20Integrations-7C3AED?style=flat-square" alt="Webhooks" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT authentication" />
+  <img src="https://img.shields.io/badge/Deployment-Vercel%20%7C%20Render%20%7C%20Netlify-334155?style=flat-square" alt="Vercel, Render, and Netlify" />
 </p>
-<br/>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrishi007&show_icons=true&locale=en" alt="iamrishi007" /></p>
-<br>
+## 🚀 Featured Project
 
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+### ✈️ TripPilot AI — AI-Powered Travel & Flight Assistant
 
-  <img align="center" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+I'm building **TripPilot AI** to explore how a full-stack travel application can combine live flight data with conversational AI.
+
+**Project focus**
+- ✈️ Flight search integration using the **Duffel API**.
+- 🧱 Backend APIs and application structure for travel search and booking workflows.
+- 🗄️ PostgreSQL for structured application data.
+- 🧠 AI service exploration with **Python and LangChain**.
+- 🔎 Planned AI capabilities include RAG, embeddings/vector search, and an agent that can coordinate relevant travel tools.
+
+**Technology direction:** Next.js / React · Node.js / NestJS · Python · LangChain · PostgreSQL · Duffel API
+
+> **Status:** In development. AI-agent and RAG capabilities are part of the project roadmap; this profile does not imply that every planned feature is already production-ready.
+
+🔗 **Repository:** [TripPilot-AI](https://github.com/iamrishi007/TripPilot-AI)
+
+## 📌 What I'm Focused On
+
+- Building maintainable backend services with **Node.js, NestJS, and TypeScript**.
+- Designing APIs and working with **PostgreSQL and SQL**.
+- Developing practical AI features with **Python, LangChain, and LLM APIs**.
+- Understanding when to use **RAG, embeddings, vector search, and agents**—and how to evaluate their results.
+- Improving application architecture, debugging, and deployment workflows.
+
+## 📊 GitHub Overview
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamrishi007&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats for Rushikesh Gaware" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrishi007&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=iamrishi007&hide_border=true&theme=transparent" alt="GitHub contribution streak" width="70%" />
+</div>
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, exchanging ideas, and learning through meaningful projects.
+
+- 💼 **LinkedIn:** [Rushikesh Gaware](https://www.linkedin.com/in/rushikesh-gaware18/)
+- 📧 **Email:** [rushigaware1020@gmail.com](mailto:rushigaware1020@gmail.com)
+- 🌐 **Portfolio:** [rushikeshgaware-portfolio.netlify.app](https://rushikeshgaware-portfolio.netlify.app/)
+
+<div align="center">
+
+### *Build consistently. Learn deeply. Ship useful things.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer" alt="" width="100%" />
+
+</div>
